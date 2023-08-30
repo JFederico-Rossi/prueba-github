@@ -1,5 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 header{
     background-image: url(/assets/img/wave.svg);
 }
 
+header img{
+    opacity: 50%;
+    border-radius: 40%;
+    box-shadow: 1.25rem 1.25rem lightblue;
+}
 
