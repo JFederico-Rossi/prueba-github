@@ -13,4 +13,18 @@ header img{
     border-radius: 40%;
     box-shadow: 1.25rem 1.25rem lightblue;
 }
+.navbar ul{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: flex-end;
+}
 
+.navbar ul li{
+    list-style: none;
+    align-self: center;
+}
+.navbar ul li a{
+    text-decoration: none;
+   
+}
